@@ -49,8 +49,8 @@
 
 ## Prerequisites
 
-- To use this tool, the user should have access to the transfer market.
-- Hence play the required number of games to get access to the transfer market before trying this tool.
+- Pour utiliser cet outil, l'utilisateur doit avoir accès au marché des transferts..
+- Il faut donc jouer le nombre de matchs requis pour avoir accès au marché des transferts avant d'essayer cet outil..
 
 <!-- features -->
 
@@ -58,29 +58,29 @@
 
 ## Features
 
-- [x] Futbin Prices And Mark bargains
-- [x] Gathers SBC solutions for FUTBIN
-- [x] Download club players as CSV
-- [x] Hide BIN confirm pop up
-- [x] Compact transfer search results view
-- [x] Club player indicator on transfer search results
-- [x] Autolist players on transferlist for FUTBIN price
+- [x] Prix Futbin et indique les bonnes affaires
+- [x] Rassemble les solutions SBC pour FUTBIN
+- [x] Télécharger les joueurs de club en CSV
+- [x] Masquer la fenêtre de confirmation ENCHERE
+- [x] Affichage compact des résultats de la recherche de transferts
+- [x] Indicateur de joueur de club sur les résultats de recherche de transfert
+- [x] Liste automatique des joueurs sur la liste des transferts pour le prix FUTBIN
 
-GIFS for some of the features
+GIFS pour certaines des fonctionnalités
 
-- Download clubs players as csv.
+- Téléchargez les joueurs du club en format csv.
 
 ![](demos/Club%20Download.gif)
 
-- Enhanced Transfer Search Results
-  - Compact View
-  - Bargain Highlighting
-  - Futbin Price
-  - Club player indicator
+- Résultats de recherche du transfert amélioré
+- Vue compacte
+- Mise en évidence des bonnes affaires
+- Prix Futbin
+- Indicateur des joueurs de club
 
 ![](demos/Enhanced%20Transfer%20Result.gif)
 
-- Autofill sbc from Futbin solutions(beta)
+- Auto-remplicage sbc des solutions Futbin (beta)
 
 ![](demos/Auto%20Sbc.gif)
 
@@ -88,12 +88,12 @@ GIFS for some of the features
 
 ## Roadmap
 
-- This is a relatively new tool with limited features, any new ideas are welcomed
-  See the [open issues](https://github.com/DevFRpyjs/fut-trade-enhancer/issues) for a list of proposed features (and known issues).
+- Il s'agit d'un outil relativement nouveau avec des fonctionnalités limitées, toute nouvelle idée est la bienvenue.
+  Voir les [questions ouvertes](https://github.com/DevFRpyjs/fut-trade-enhancer/issues) pour une liste des fonctionnalités proposées (et des problèmes connus).
 
 ## 💬 Community
 
-If you are looking for help or any new feature request, join our discord group
+Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez notre groupe discord.
 
 <img src="https://img.shields.io/discord/1044717314379100191?color=green&label=Discord&logo=discord&logoColor=white">
 
