@@ -33,11 +33,11 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Conditions préalables](#prerequisites)
-- [Caractéristiques](#features)
-- [Feuille de route](#roadmap)
-- [Guide du développeur](#developerguide)
-- [Contribution](#contributing)
+- [Conditions_préalables](#Conditions_préalables)
+- [Caractéristiques](#Caractéristiques)
+- [Feuille_de_route](#Feuille_de_route)
+- [Guide_du_développeur](#Guide_du_développeur)
+- [Contribution](#Contribution)
 - [Contact](#contact)
 
 <!-- installation -->
@@ -47,16 +47,16 @@
 - Naviguez vers [chrome store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr-fr) pour installer l'extension Tamper monkey
 - Puis naviguez vers [download page](https://github.com/ckalgos/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js) pour installer le script
 
-## Prerequisites
+## Conditions_préalables
 
 - Pour utiliser cet outil, l'utilisateur doit avoir accès au marché des transferts..
 - Il faut donc jouer le nombre de matchs requis pour avoir accès au marché des transferts avant d'essayer cet outil..
 
 <!-- features -->
 
-## Features
+## Caractéristiques
 
-## Features
+## Caractéristiques
 
 - [x] Prix Futbin et indique les bonnes affaires
 - [x] Rassemble les solutions SBC pour FUTBIN
@@ -84,14 +84,14 @@ GIFS pour certaines des fonctionnalités
 
 ![](demos/Auto%20Sbc.gif)
 
-<!-- roadmap -->
+<!-- Feuille_de_route -->
 
-## Roadmap
+## Feuille_de_route
 
 - Il s'agit d'un outil relativement nouveau avec des fonctionnalités limitées, toute nouvelle idée est la bienvenue.
   Voir les [questions ouvertes](https://github.com/DevFRpyjs/fut-trade-enhancer/issues) pour une liste des fonctionnalités proposées (et des problèmes connus).
 
-## 💬 Community
+## 💬 Communauté
 
 Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez notre groupe discord.
 
@@ -99,13 +99,11 @@ Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez
 
 <a href="https://discord.gg/MKbzeRMQ9Y">Rejoignez</a>
 
-<!-- developerguide -->
+<!-- Guide_du_développeur -->
 
-## DeveloperGuide
+## Guide_du_développeur
 
 <a href="https://discord.gg/MKbzeRMQ9Y">Rejoignez ce canal discord</a>
-
-<!-- CONTRIBUTING -->
 
 <!-- CONTACT -->
 
