@@ -45,7 +45,7 @@
 ## Installation
 
 - Naviguez vers [chrome store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr-fr) pour installer l'extension Tamper monkey
-- Puis naviguez vers [download page](https://github.com/ckalgos/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js) pour installer le script
+- Puis naviguez vers [download page](https://github.com/DevFRpyjs/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js) pour installer le script
 
 ## Conditions_préalables
 
@@ -108,8 +108,6 @@ Si vous cherchez de l'aide ou une nouvelle demande de fonctionnalité, rejoignez
 <!-- CONTACT -->
 
 ## Contact
-
-Instagram - [@Instagram](https://www.instagram.com/ckalgos/) - ckalgos@gmail.com
 
 Project Link: [https://github.com/DevFRpyjs/fut-trade-enhancer](https://github.com/DevFRpyjs/fut-trade-enhancer)
 
