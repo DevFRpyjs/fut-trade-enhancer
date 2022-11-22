@@ -18,7 +18,7 @@
     <a href="https://github.com/DevFRpyjs/fut-trade-enhancer/issues">Demander une fonctionnalité</a>
   .
   
-  # Must Read :no_entry_sign:
+  # A lire absolument :no_entry_sign:
   
   Cet outil est développé à des fins d'apprentissage pour démontrer comment quelqu'un peut développer un script pour modifier une application Web en automatisant des taches.
   
