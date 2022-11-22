@@ -25,8 +25,8 @@ module.exports = {
       "on.aws",
     ],
     updateURL:
-      "https://github.com/ckalgos/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
+      "https://github.com/DevFRpyjs/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
     downloadURL:
-      "https://github.com/ckalgos/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
+      "https://github.com/DevFRpyjs/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
   },
 };
